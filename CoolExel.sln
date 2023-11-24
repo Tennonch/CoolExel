@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoolExel", "CoolExel\CoolExel.csproj", "{151A1220-B117-412E-A152-3A68FCBEA193}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Элементы решения", "Элементы решения", "{BD221C1D-C38B-437F-83FA-61A1CDFD6CD7}"
+	ProjectSection(SolutionItems) = preProject
+		LabCalculator.g4 = LabCalculator.g4
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{151A1220-B117-412E-A152-3A68FCBEA193}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{151A1220-B117-412E-A152-3A68FCBEA193}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{151A1220-B117-412E-A152-3A68FCBEA193}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{151A1220-B117-412E-A152-3A68FCBEA193}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{151A1220-B117-412E-A152-3A68FCBEA193}.Release|Any CPU.Build.0 = Release|Any CPU
+		{151A1220-B117-412E-A152-3A68FCBEA193}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {576C663E-AB75-4F8A-A27E-F7F74DE75F27}
+	EndGlobalSection
+EndGlobal
